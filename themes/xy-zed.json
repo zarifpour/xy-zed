@@ -350,7 +350,7 @@
           },
           "text.literal": {
             // .md code
-            "color": "#85b8ffff", // blue (lighter)
+            "color": "#FF5858ff", // red (pastel)
             "font_style": null,
             "font_weight": null
           },

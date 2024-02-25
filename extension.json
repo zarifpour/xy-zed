@@ -1,6 +1,6 @@
 {
   "name": "XY-Zed Theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "authors": ["Daniel Zarifpour <z@rifpour.xyz>"],
   "description": "A sleek and sophisticated dark theme with vibrant, intelligent syntax highlighting. Report unidentified elements, highlighted in red, to the GitHub repo <zarifpour/xy-zed>.",
   "repository": "https://github.com/zarifpour/xy-zed"
