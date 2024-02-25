@@ -22,7 +22,7 @@
         "element.active": "#7de48635", // green (mid transparent)
         "element.selected": "#7de48650", // green (darkest transparent)
         "element.disabled": "#FF0000", // ?
-        "drop_target.background": "#252931ff",
+        "drop_target.background": "#7de48620",
         "ghost_element.background": "#00000000",
         "ghost_element.hover": "#7de48620", // green (lightest transparent)
         "ghost_element.active": "#7de48635", // green (mid transparent)
