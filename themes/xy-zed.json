@@ -64,8 +64,8 @@
         "editor.invisible": "#f7f7f810",
         "editor.wrap_guide": "#FF0000", // ?
         "editor.active_wrap_guide": "#ffffff20", // white (very transparent)
-        "editor.document_highlight.read_background": "#7de48625", // green (darkest transparent)
-        "editor.document_highlight.write_background": "#FF0000", // default
+        "editor.document_highlight.read_background": "#7de48625", // green (darker transparent)
+        "editor.document_highlight.write_background": "#7de48670", // green (darkest transparent) e.g., variables being written to
         "terminal.background": "#121212", // black (primary)
         "terminal.foreground": "#f7f7f8ff", // white
         "terminal.bright_foreground": "#f7f7f8ff", // white
