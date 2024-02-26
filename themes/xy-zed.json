@@ -56,7 +56,7 @@
         "editor.foreground": "#f7f7f8ff", // white
         "editor.background": "#121212", // black (primary)
         "editor.gutter.background": "#121212", // black (primary)
-        "editor.subheader.background": "#FF0000", // ?
+        "editor.subheader.background": "#1b1b1b", // black (secondary) e.g., search headings
         "editor.active_line.background": "#7de48610", // green (lightest transparent)
         "editor.highlighted_line.background": "#FF0000", // ?
         "editor.line_number": "#1b1b1b", // black (secondary)
