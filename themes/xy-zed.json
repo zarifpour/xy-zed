@@ -48,7 +48,7 @@
         "panel.background": "#1b1b1b", // black (secondary)
         // "panel.focused_border": null,
         "panel.focused_border": "FF0000", // ?
-        "scrollbar.thumb.background": "#ffffff40", // ?
+        "scrollbar.thumb.background": "#aca8ae30", // muted transparent
         "scrollbar.thumb.hover_background": "#FF0000", // ?
         "scrollbar.thumb.border": "#ffffff20", // white (very transparent)
         "scrollbar.track.background": "#1b1b1b80", // black (scondary, darkest transparent)
@@ -324,7 +324,7 @@
             "font_weight": null
           },
           "string.escape": {
-            "color": "#FF0000", // ?
+            "color": "#4788CCff", // deep blue
             "font_style": null,
             "font_weight": null
           },
