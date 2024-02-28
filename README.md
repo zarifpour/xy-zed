@@ -35,5 +35,8 @@ Please include as much detail as possible, such as screenshots, text samples, an
 ---
 
 <div align=center>
-Made with 💚 by <a href="https://zarifpour.xyz">Daniel Zarifpour</a>
+
+  Made with 💚 by <a href="https://zarifpour.xyz">Daniel Zarifpour</a>
+
+  <a href="https://www.buymeacoffee.com/zarifpour"><img src="https://img.buymeacoffee.com/button-api/?text=Help me love&emoji=♥️&slug=zarifpour&button_colour=ffbbb6&font_colour=000000&font_family=Cookie&outline_colour=FF0000&coffee_colour=FFDD00" /></a>
 </div>
