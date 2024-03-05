@@ -374,6 +374,11 @@
             "color": "#FF0000", // ?
             "font_style": null,
             "font_weight": null
+          },
+          "include": {
+            "color": "#c678ddff", // purple
+            "font_style": null,
+            "font_weight": null
           }
         }
       }
