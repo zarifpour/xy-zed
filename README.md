@@ -19,14 +19,16 @@
 
 Welcome to the XY-Zed theme for [Zed](https://zed.dev), a gorgeous dark theme designed with sensible syntax colors to enhance your coding experience.
 
-XY-Zed is a meticulously crafted dark theme for Zed, aimed at improving readability and reducing eye strain during long coding sessions. The theme features sensible syntax colors, making it easier to write and review code. Please note that this theme is still in development and may not be perfect. We appreciate your feedback and contributions to make it better.
+XY-Zed is a meticulously crafted dark theme for Zed, aimed at improving readability and reducing eye strain during long coding sessions. The theme features sensible syntax colors, making it easier to write and review code. Please note that this theme is still in development and may not be perfect. Feedback and contributions are always appreciated.
 
 > [!Note]
-> Unidentified elements are intentionally colored in bright red to make them easier to spot. If you encounter any such elements, please help us by reporting them on the GitHub repository along with a screenshot.
+> Elements that have not been identified are intentionally colored in bright red to make them more visible. If you come across any such elements, please assist by reporting them to the GitHub repository. Include a screenshot for clarity.
+>
+> Color of an unidentified element: ![Unidentified Element](public/screenshots/unidentified.png)
 
 ## 🚨 Reporting Issues
 
-We welcome your feedback and issue reports. If you encounter any problems or have suggestions for improvement, please report them on our GitHub repository:
+Feedback and issue reports are encouraged. If you encounter any problems or have suggestions for improvement, please report them on our GitHub repository:
 
 [XY-Zed Issues](https://github.com/zarifpour/xy-zed/issues)
 
