@@ -206,7 +206,7 @@
             "font_weight": 600
           },
           "constructor": {
-            "color": "#FF0000", // ?
+            "color": "#FF5858ff", // red (pastel)
             "font_style": null,
             "font_weight": null
           },
