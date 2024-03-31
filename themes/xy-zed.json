@@ -59,7 +59,7 @@
         "editor.subheader.background": "#1b1b1b", // black (secondary) e.g., search headings
         "editor.active_line.background": "#7de48610", // green (lightest transparent)
         "editor.highlighted_line.background": "#FFD09750", // complement for baby blue e.g., for find all references // not perfect
-        "editor.line_number": "#1b1b1b", // black (secondary)
+        "editor.line_number": "#3b3b3b", // grey (faded)
         "editor.active_line_number": "#7de486ff", // green (accent)
         "editor.invisible": "#f7f7f810",
         "editor.wrap_guide": "#FF0000", // ?
