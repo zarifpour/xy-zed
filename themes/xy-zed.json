@@ -302,7 +302,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#f7f7f8ff", // white
+            "color": "#DCDCAAff", // yellow (light)
             "font_style": null,
             "font_weight": null
           },
@@ -334,12 +334,12 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#FF0000", // ?
+            "color": "#FF5858ff", // red (pastel)
             "font_style": null,
             "font_weight": null
           },
           "string.special.symbol": {
-            "color": "#9cdcfeff", // baby blue
+            "color": "#7ce184ff", // green (light neon)
             "font_style": null,
             "font_weight": null
           },
