@@ -49,7 +49,7 @@
         // "panel.focused_border": null,
         "panel.focused_border": "FF0000", // ?
         "scrollbar.thumb.background": "#aca8ae30", // muted transparent
-        "scrollbar.thumb.hover_background": "#FF0000", // ?
+        "scrollbar.thumb.hover_background": "#746f7730", // darker muted transparent
         "scrollbar.thumb.border": "#ffffff20", // white (very transparent)
         "scrollbar.track.background": "#1b1b1b80", // black (scondary, darkest transparent)
         "scrollbar.track.border": "#ffffff10", // white (lightest transparent)
