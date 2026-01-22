@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "XY-Zed",
   "author": "Daniel Zarifpour <z@rifpour.xyz>",
   "themes": [
@@ -9,10 +9,9 @@
       "style": {
         "border": "#ffffff20", // white (very transparent)
         "border.variant": "#ffffff20", // white (very transparent)
-        "border.focused": "#FF0000", // ?
+        "border.focused": "#7de486ff", // green (accent)
         "border.selected": "#FF0000", // ?
-        // "border.transparent": "#00000000",
-        "border.transparent": "#FF0000",
+        "border.transparent": "#ffffff20", // ?
         "border.disabled": "#FF0000", // ?
         "elevated_surface.background": "#1b1b1b", // black (secondary)
         "surface.background": "#1b1b1b", // black (secondary)
@@ -21,9 +20,9 @@
         "element.hover": "#7de48620", // green (lightest transparent)
         "element.active": "#7de48635", // green (mid transparent)
         "element.selected": "#7de48650", // green (darkest transparent)
-        "element.disabled": "#FF0000", // ?
-        "drop_target.background": "#7de48620",
-        "ghost_element.background": "#00000000",
+        "element.disabled": "#aca8ae30", // muted transparent
+        "drop_target.background": "#7de48620", // green (lightest transparent)
+        "ghost_element.background": "#00000000", // fully transparent
         "ghost_element.hover": "#7de48620", // green (lightest transparent)
         "ghost_element.active": "#7de48635", // green (mid transparent)
         "ghost_element.selected": "#7de48650", // green (darkest transparent)
@@ -34,7 +33,7 @@
         "text.disabled": "#6b6b73ff", // greyed out
         "text.accent": "#7de486ff", // green (accent)
         "icon": "#f7f7f8ff", // white
-        "icon.muted": "#FF0000",
+        "icon.muted": "#aca8aeff", // no idea what this is
         "icon.disabled": "#6b6b73ff", // greyed out
         "icon.placeholder": "#FF0000", // ?
         "icon.accent": "#FF0000", // ?
@@ -45,11 +44,11 @@
         "tab.inactive_background": "#1b1b1b", // black (secondary)
         "tab.active_background": "#121212", // black (primary)
         "search.match_background": "#975c3250",
+        "panel.focused_border": "#7de486ff", // green (accent)
         "panel.background": "#1b1b1b", // black (secondary)
-        // "panel.focused_border": null,
-        "panel.focused_border": "FF0000", // ?
-        "scrollbar.thumb.background": "#aca8ae30", // muted transparent
-        "scrollbar.thumb.hover_background": "#FF0000", // ?
+        "panel.focused_border": "#7de486ff", // green (accent)
+        "scrollbar_thumb.background": "#aca8ae30", // muted transparent
+        "scrollbar.thumb.hover_background": "#7de48650", // green (darkest transparent)
         "scrollbar.thumb.border": "#ffffff20", // white (very transparent)
         "scrollbar.track.background": "#1b1b1b80", // black (scondary, darkest transparent)
         "scrollbar.track.border": "#ffffff10", // white (lightest transparent)
@@ -62,7 +61,7 @@
         "editor.line_number": "#3b3b3b", // grey (faded)
         "editor.active_line_number": "#7de486ff", // green (accent)
         "editor.invisible": "#f7f7f810",
-        "editor.wrap_guide": "#FF0000", // ?
+        "editor.wrap_guide": "#ffffff10", // white (lightest transparent)
         "editor.active_wrap_guide": "#ffffff20", // white (very transparent)
         "editor.document_highlight.read_background": "#7de48625", // green (darker transparent)
         "editor.document_highlight.write_background": "#7de48670", // green (darkest transparent)
@@ -290,8 +289,9 @@
             "font_style": null,
             "font_weight": null
           },
+          // e.g. Code comments in .md
           "punctuation": {
-            "color": "#FF0000", // ?
+            "color": "#FF5858ff", // red (pastel)
             "font_style": null,
             "font_weight": null
           },
