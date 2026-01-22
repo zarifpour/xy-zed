@@ -46,7 +46,7 @@
         "search.match_background": "#975c3250",
         "panel.focused_border": "#7de486ff", // green (accent)
         "panel.background": "#1b1b1b", // black (secondary)
-        "scrollbar_thumb.background": "#aca8ae30", // muted transparent
+        "scrollbar.thumb.background": "#aca8ae30", // muted transparent
         "scrollbar.thumb.hover_background": "#7de48650", // green (darkest transparent)
         "scrollbar.thumb.border": "#ffffff20", // white (very transparent)
         "scrollbar.track.background": "#1b1b1b80", // black (scondary, darkest transparent)
