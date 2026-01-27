@@ -1,6 +1,6 @@
 id = "xy-zed"
 name = "XY-Zed Theme"
-version = "0.1.3"
+version = "0.1.4"
 schema_version = 1
 authors = ["Daniel Zarifpour <z@rifpour.xyz>"]
 description = "🐈‍⬛ A sleek and sophisticated dark theme with vibrant, intelligent syntax highlighting. Please report issues ➩"
