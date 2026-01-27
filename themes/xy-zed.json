@@ -234,9 +234,9 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#FF0000", // ?
+            "color": "#08e7c580", // cyan (light)
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "keyword": {
             "color": "#c678ddff", // purple
